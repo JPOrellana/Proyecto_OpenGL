@@ -31,7 +31,7 @@
 - Para tener Dalmata       - Presionar "Tecla 2"
 - Para tener Lava          - Presionar "Tecla 3"
 - Para tener Bola de Disco - Presionar "Tecla 4"
-## El proyecto cuenta con el track de "Star Wars" de fondo
+## El proyecto cuenta con melodia de "Star Wars" de fondo
 ## Funcionamiento
 
 
